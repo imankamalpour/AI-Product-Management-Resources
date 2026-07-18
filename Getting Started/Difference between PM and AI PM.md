@@ -2,7 +2,7 @@
 
 Artificial Intelligence is changing how products are built, delivered, and experienced. While many of the core principles of Product Management remain the same, AI introduces new challenges, responsibilities, and ways of thinking that fundamentally change the role of a Product Manager.
 
-A traditional Product Manager focuses on delivering deterministic software—systems that behave predictably according to predefined business rules. An AI Product Manager, on the other hand, works with probabilistic systems whose outputs may vary, learn from data, and continuously evolve.
+A traditional Product Manager focuses on delivering deterministic software-systems that behave predictably according to predefined business rules. An AI Product Manager, on the other hand, works with probabilistic systems whose outputs may vary, learn from data, and continuously evolve.
 
 Understanding these differences is essential for anyone transitioning into AI Product Management.
 
@@ -339,7 +339,7 @@ AI PM decisions:
 
 # Mindset Shift
 
-Perhaps the biggest change isn't technical—it's mental.
+Perhaps the biggest change isn't technical-it's mental.
 
 Traditional Product Managers seek certainty.
 
@@ -361,7 +361,7 @@ That mindset is the foundation of successful AI Product Management.
 
 ✅ Product Management principles remain the foundation of AI Product Management.
 
-✅ AI Product Managers need enough technical understanding to make informed product decisions—not to build machine learning models themselves.
+✅ AI Product Managers need enough technical understanding to make informed product decisions-not to build machine learning models themselves.
 
 ✅ AI products require continuous evaluation, monitoring, and improvement rather than one-time releases.
 
